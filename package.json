@@ -1,0 +1,27 @@
+{
+  "name": "scp-project",
+  "version": "1.0.0",
+  "description": "A sotap-player-created scp series fiction project.",
+  "main": "index.html",
+  "scripts": {
+    "init": "docsify init ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotapmc/SCP-Project.git"
+  },
+  "keywords": [
+    "scp",
+    "wiki",
+    "fiction"
+  ],
+  "author": "liang__xi | xiuyan_",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/sotapmc/SCP-Project/issues"
+  },
+  "homepage": "https://github.com/sotapmc/SCP-Project#readme",
+  "dependencies": {
+    "docsify": "^4.10.2"
+  }
+}

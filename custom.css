@@ -1,0 +1,9 @@
+@import url('https://fonts.loli.net/css?family=Oxanium|Trade+Winds&display=swap');
+
+body {
+    font-family: 'Oxanium', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
+
+.app-name-link {
+    font-family: 'Trade Winds', sans-serif;
+}
