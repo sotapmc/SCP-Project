@@ -1,2 +1,3 @@
 # SCP-Project
-You don't have the permission to view the description here.
+
+**SCP-Project** 是由 SoTap 玩家发起的 SCP 小说编写计划。
