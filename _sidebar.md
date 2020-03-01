@@ -1,1 +1,3 @@
 - [首页](/index.md)
+- SCP
+    - [SCP-Sotap-001](/SCP/SCP-Sotap-001.md)
