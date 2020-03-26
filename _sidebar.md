@@ -1,4 +1,5 @@
 - [首页](/index.md)
 - SCP
     - [SCP-Sotap-001-套娃](/SCP/SCP-Sotap-001.md)
-    - [SCP-Sotap-002-重新开始●病毒](/SCP/SCP-Sotap-002.md)
+    - [SCP-Sotap-002-末日病毒](/SCP/SCP-Sotap-002.md)
+    - [SCP-Sotap-003-未知生物](/SCP/SCP-Sotap-003.md)
